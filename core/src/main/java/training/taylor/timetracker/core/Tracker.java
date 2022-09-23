@@ -29,7 +29,7 @@ public class Tracker {
     public TimeEntry get(int index) {
         try {
 
-        } catch (Exception e) {
+        } catch (Exception) {
 
         }
 
